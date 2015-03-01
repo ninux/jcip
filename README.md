@@ -5,6 +5,9 @@ reading for this topic is 'Java Concurrency in Practice' by Addison Wesley.
 # Goals
 I just want to get a basic idea on the practical concepts of concurrency.
 
+# Progress
+* [reading](./progress/reading.md)
+
 # Why Java?
 As a student in electrical engineering I'm not very into Java, but
 it seems that for some conceptual learning it's often the 'less
